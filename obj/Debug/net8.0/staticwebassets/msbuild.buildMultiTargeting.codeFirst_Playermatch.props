@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\codeFirst_Playermatch.props" />
+</Project>

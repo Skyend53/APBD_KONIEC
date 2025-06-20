@@ -1,0 +1,6 @@
+@codeFirst_Playermatch_HostAddress = http://localhost:5123
+
+GET {{codeFirst_Playermatch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
